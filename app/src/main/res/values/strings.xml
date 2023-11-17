@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FormulirSkripsi</string>
+    <string name="nama">Nama</string>
+    <string name="nim">NIM</string>
+    <string name="judul">Judul Skripsi</string>
+    <string name="lanjut">Next</string>
+    <string name="dosen1">Dosen Pembimbing 1</string>
+    <string name="dosen2">Dosen Pembimbing 2</string>
+    <string name="haris">Haris Setiawan</string>
+    <string name="dwijoko">Dwi Djoko P</string>
+    <string name="aprilia">Aprilia Kurniati</string>
+
+
+</resources>
